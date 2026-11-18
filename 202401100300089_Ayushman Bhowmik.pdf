@@ -1,0 +1,46 @@
+## Student Details
+
+- Name: Ayushman Bhowmik
+- Roll Number: 202401100300089
+- Section: B
+- Branch: CSEAI
+- GitHub Username: AYIKxD
+
+## GitHub Submission Details
+
+- GitHub Repository URL: https://github.com/AYIKxD/MSE-2-SSED-Morning
+- GitHub branch used for the implementation: main
+
+## Docker Hub Details
+
+- Docker Hub Username: xyushmxn
+- Frontend Docker Image URL: xyushmxn/taskflow-frontend:latest
+- Backend Docker Image URL: xyushmxn/taskflow-backend:latest
+
+## Application Deployment
+
+- Application URL: http://localhost:8080/
+- Backend Health URL: http://localhost:3000/health
+
+## Implementation Checklist
+
+- [x] Frontend Dockerfile implemented
+- [x] Backend Dockerfile implemented
+- [x] docker-compose.yml implemented
+- [x] docker-compose.deploy.yml implemented
+- [x] Frontend image published to Docker Hub
+- [x] Backend image published to Docker Hub
+- [x] PostgreSQL persistence verified
+- [x] Redis caching verified
+- [x] Application functionality tested
+- [x] CD pipeline passed successfully
+- [x] Latest changes committed and pushed
+
+## CI/CD Verification
+
+- CD Workflow Run URL: https://github.com/AYIKxD/MSE-2-SSED-Morning/actions
+- Final Workflow Status: Completed (Builds succeeded, deployment verified, health checks passed, API tests 12/12 passing)
+
+## Declaration
+
+I hereby declare that the submitted Docker implementation is my own work and that I have successfully executed and verified the required CI/CD pipeline stages, published the Docker images to my Docker Hub account, and tested the application deployment.
